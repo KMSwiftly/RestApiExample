@@ -7,9 +7,9 @@
 # Screenshots
 
 <p>
-    <img align="left" width="200" height="500" src="/Images/Screenshot1.png" >
-    <img align="center" width="200" height="500" src="/Images/Screenshot2.png" >
-    <img align="right" width="200" height="500" src="/Images/Screenshot3.png" >
+    <img  width="200" height="500" src="/Images/Screenshot1.png" >
+    <img  width="200" height="500" src="/Images/Screenshot2.png" >
+    <img  width="200" height="500" src="/Images/Screenshot3.png" >
 </p>
 
 
