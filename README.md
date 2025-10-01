@@ -5,9 +5,13 @@
 ![](/Images/RestApi.png)
 
 # Screenshots
-![](/Images/Screenshot1.png) ![](/Images/Screenshot2.png)
 
-#
+<p>
+    <img src="/Images/Screenshot1.png" >
+    <img src="/Images/Screenshot2.png" >
+</p>
+
+
 ![](/Images/Screenshot3.png)
 
 ## [License][license]
