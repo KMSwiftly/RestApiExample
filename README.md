@@ -3,7 +3,7 @@
 -  Rest Api example is a sample program written for iOS with Swift that shows how the Rest Api works. 🪄.
 
 <p>
-    <img src="/Images/RestApi.png" >
+    <img align="center" src="/Images/RestApi.png" >
 </p>
 
 # Screenshots
