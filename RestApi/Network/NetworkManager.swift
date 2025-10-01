@@ -10,7 +10,6 @@ class NetworkManager{
     static let shared = NetworkManager()
     private init(){}
     
-    @MainActor
     func fetchData<T: Codable>(url: String) async throws -> T{
         guard let url = URL(string: url) else{
             throw NetworkError.invalidURL
