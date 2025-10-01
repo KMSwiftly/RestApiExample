@@ -5,9 +5,9 @@
 ![](/Images/RestApi.png)
 
 # Screenshots
-![](/Images/Screenshout1.png)
-![](/Images/Screenshout2.png)
-![](/Images/Screenshout3.png)
+![](/Images/Screenshot1.png)
+![](/Images/Screenshot2.png)
+![](/Images/Screenshot3.png)
 
 ## [License][license]
 Password Generator is licensed, as found in the [LICENSE][license] file.
