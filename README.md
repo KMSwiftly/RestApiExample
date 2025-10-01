@@ -7,7 +7,7 @@
 # Screenshots
 
 <p>
-    <img src="/Images/Screenshot1.png" >
+    <img src="/Images/Screenshot1.png/200/200" >
     <img src="/Images/Screenshot2.png" >
 </p>
 
