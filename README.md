@@ -22,6 +22,6 @@
 
 
 ## [License][license]
-Password Generator is licensed, as found in the [LICENSE][license] file.
+RestApiExample is licensed, as found in the [LICENSE][license] file.
 
 [license]: LICENSE
